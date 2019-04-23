@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group
+        android:checkableBehavior="single"
+        android:id="@+id/menuTop">
+
+        <item
+            android:id="@+id/homePage"
+            android:title="Home"
+            android:icon="@mipmap/baseline_home_black_24"/>
+
+        <item
+            android:id="@+id/historyPage"
+            android:title="History"
+            android:icon="@mipmap/baseline_archive_black_24"/>
+
+        <item
+            android:id="@+id/profilePage"
+            android:title="Profile"
+            android:icon="@mipmap/baseline_supervisor_account_black_24"/>
+
+    </group>
+
+    <group
+        android:id="@+id/menuBottom">
+
+        <item
+            android:id="@+id/logOut"
+            android:title="Log Out"
+            android:icon="@mipmap/baseline_power_settings_new_black_24"/>
+
+    </group>
+
+</menu>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1039320178319",
+    "firebase_url": "https://lost-and-found-application.firebaseio.com",
+    "project_id": "lost-and-found-application",
+    "storage_bucket": "lost-and-found-application.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039320178319:android:93d6a0aa8bc31cf6",
+        "android_client_info": {
+          "package_name": "com.tann.vattana.lostandfoundapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039320178319-jbdanrlq7csnususib8e3j5t3dtk51n7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tann.vattana.lostandfoundapplication",
+            "certificate_hash": "f86afa1e1226d4c4e27839a87f6be560073487ad"
+          }
+        },
+        {
+          "client_id": "1039320178319-ouptste5mtk7es4oa66f5ijlvjcoqndi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHzraaYR_DOaOJlMJebuAC_ulvEezXtOo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1039320178319-ouptste5mtk7es4oa66f5ijlvjcoqndi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
